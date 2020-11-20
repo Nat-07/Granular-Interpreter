@@ -5,6 +5,6 @@
 using namespace std; 
 
 // print function
-void print(string word){
-    cout << word << endl;
+void print(string wordToPrint){
+    cout << wordToPrint << endl;
 }
