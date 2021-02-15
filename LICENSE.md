@@ -1,2 +1,1 @@
-
-Copyright (C) 2020 Justin Morris
+Copyright (C) 2020 [Nat](https://github.com/Nat-07)
